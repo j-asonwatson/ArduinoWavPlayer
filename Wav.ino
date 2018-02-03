@@ -8,7 +8,7 @@
 
                 // need to include the SD library
 //#define SD_ChipSelectPin 53  //example uses hardware SS pin 53 on Mega2560
-#define SD_ChipSelectPin 10  //using digital pin 4 on arduino nano 328
+#define SD_ChipSelectPin 8  //using digital pin 4 on arduino nano 328
 //#define MODE1
          //  also need to include this library...
 
